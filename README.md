@@ -3,7 +3,7 @@
   <h1>📛🍁 BLACK BOT OFFICIAL 🍁📛</h1>
 </div>
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="400" height="400"/>
+  <img border-radius: 15px src="https://telegra.ph/file/a9828216d4e5e0c9e23bc.png" width="400" height="400"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/-BLACK-green"></a>
 </p>
